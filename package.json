@@ -1,0 +1,15 @@
+{
+  "name": "metalsmith-github-meta",
+  "description": "A Metalsmith plugin to extract metadata about last commits.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "dependencies": {
+    
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jameslambie@gmail.com"
+}
