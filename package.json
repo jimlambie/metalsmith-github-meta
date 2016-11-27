@@ -1,11 +1,14 @@
 {
   "name": "metalsmith-github-meta",
-  "description": "A Metalsmith plugin to extract metadata about last commits.",
-  "version": "0.0.1",
+  "description": "A Metalsmith plugin to extract metadata about latest commit for each file.",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "lib/index.js",
   "dependencies": {
-    
+    "async": "^2.1.4",
+    "mkdirp": "^0.5.1",
+    "request": "^2.79.0",
+    "underscore": "^1.8.3"
   },
   "devDependencies": {},
   "scripts": {
